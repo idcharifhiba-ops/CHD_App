@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy<2
+numpy
 joblib
 scikit-learn==1.5.1
 imbalanced-learn
